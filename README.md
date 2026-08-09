@@ -1,8 +1,4 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=rohitpvt&theme=aurora&label=Rohit+Ghosh&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=rohitpvt&theme=aurora&label=Rohit+Ghosh" width="100%" alt="Rohit Ghosh" /></picture>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=rohitpvt&theme=aurora&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=rohitpvt&theme=aurora&mode=dark" width="100%" alt="Rohit Ghosh — profile" />
