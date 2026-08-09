@@ -11,6 +11,12 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=rohitpvt&theme=aurora&items=Python%3A%3A11+public+repositories%7CAI-Desktop-Assistant-with-GUI%3A%3ADeveloped+a+Python-based+AI+Assistant+with+AI+%7CImpact%3A%3A0+stars+%C2%B7+49+active+days&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=rohitpvt&theme=aurora&items=Python%3A%3A11+public+repositories%7CAI-Desktop-Assistant-with-GUI%3A%3ADeveloped+a+Python-based+AI+Assistant+with+AI+%7CImpact%3A%3A0+stars+%C2%B7+49+active+days" width="100%" alt="Highlights" /></picture>
 </p>
 
+## Work
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rohitpvt&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=rohitpvt&theme=aurora" width="100%" alt="Pinned projects" /></picture>
+</p>
+
 ## The year, so far
 
 <p align="center">
@@ -28,12 +34,6 @@
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=rohitpvt&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=rohitpvt&theme=aurora" width="100%" alt="Language stack" /></picture>
-</p>
-
-## Work
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rohitpvt&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=rohitpvt&theme=aurora" width="100%" alt="Pinned projects" /></picture>
 </p>
 
 ## Profile scan
